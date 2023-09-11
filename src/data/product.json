@@ -1,0 +1,37 @@
+[
+    {
+        "product_id" : 1,
+        "product_name" : "Đai lưng",
+        "image" : "https://mdbcdn.b-cdn.net/img/Photos/Horizontal/E-commerce/Products/belt.webp",
+        "price" : 50000,
+        "description" : "Đai lưng thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Đai lưng là một phụ kiện không thể thiếu trong tủ đồ của bạn."
+    },
+    {
+        "product_id" : 2,
+        "product_name" : "Áo thun",
+        "image" : "https://tanphuong.vn/wp-content/uploads/2020/04/ao-thun-thoi-trang-he-2020-yourtee-tpx65-3.jpg",
+        "price" : 70000,
+        "description" : "Áo thun thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Áo thun không thể thiếu trong tủ đồ của bạn." 
+    },
+    {
+        "product_id" : 3,
+        "product_name" : "Quần bò",
+        "image" : "https://duongluxury.com/wp-content/uploads/2020/11/quan-bo-louis-vuitton-rach-xuoc-hoa-tiet-chu-qnlv035.jpg",
+        "price" : 100000,
+        "description" : "Quần bò thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn.Quần bò là không thể thiếu trong tủ đồ của bạn." 
+    },
+    {
+        "product_id" : 4,
+        "product_name" : "Áo len",
+        "image" : "https://i.pinimg.com/736x/08/ec/da/08ecda4c438f535d3e43fffebc62f485.jpg",
+        "price" : 120000,
+        "description" : "Áo len thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Áo len không thể thiếu trong tủ đồ của bạn."
+    },
+    {
+        "product_id" : 5,
+        "product_name" : "Áo dài tay",
+        "image" : "https://bizweb.dktcdn.net/100/369/522/files/ao-sweater-local-brand-dkmv-lego-b96b482f-1972-4553-8a7e-dca726f5f025.jpg?v=1590570647909",
+        "price" : 80000,
+        "description" : "Áo dài tay thời trang cho nam và nữ. Sản phẩm này làm từ chất liệu da tổng hợp cao cấp, chất lượng đảm bảo. Thiết kế đơn giản nhưng vô cùng thời trang, phù hợp cho mọi dịp và trang phục. Dễ dàng điều chỉnh độ rộng để phù hợp với bạn. Áo dài tay không thể thiếu trong tủ đồ của bạn."
+    }
+]

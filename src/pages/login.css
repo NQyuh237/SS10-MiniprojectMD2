@@ -1,0 +1,26 @@
+.form-container{
+    border: 1px solid #dadada;
+    padding: 20px;
+    width: 400px;
+    height: 500px;
+    border-radius: 6px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.form-label{
+    font-weight: 500;
+    color: black;
+}
+
+.form-input{
+    height: 36px;
+    padding: 0 16px;
+    border-radius: 4px;
+    outline: none;
+    border: 1px solid #dadada;
+}
